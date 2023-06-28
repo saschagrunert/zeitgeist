@@ -3,7 +3,7 @@ module sigs.k8s.io/zeitgeist
 go 1.20
 
 require (
-	github.com/aws/aws-sdk-go v1.44.263
+	github.com/aws/aws-sdk-go v1.44.291
 	github.com/blang/semver/v4 v4.0.0
 	github.com/google/go-containerregistry v0.15.2
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.1
@@ -13,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.8.2
 	github.com/xanzy/go-gitlab v0.83.0
 	gopkg.in/yaml.v3 v3.0.1
-	helm.sh/helm/v3 v3.12.0
+	helm.sh/helm/v3 v3.9.4
 	sigs.k8s.io/release-sdk v0.10.1
 	sigs.k8s.io/release-utils v0.7.4
 )

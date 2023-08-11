@@ -13,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/xanzy/go-gitlab v0.86.0
 	gopkg.in/yaml.v3 v3.0.1
-	helm.sh/helm/v3 v3.12.1
+	helm.sh/helm/v3 v3.12.3
 	sigs.k8s.io/release-sdk v0.10.2
 	sigs.k8s.io/release-utils v0.7.4
 )
@@ -106,14 +106,14 @@ require (
 	go.opentelemetry.io/otel/metric v1.16.0 // indirect
 	go.opentelemetry.io/otel/trace v1.16.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
-	golang.org/x/crypto v0.10.0 // indirect
+	golang.org/x/crypto v0.11.0 // indirect
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/net v0.11.0 // indirect
 	golang.org/x/oauth2 v0.9.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
-	golang.org/x/term v0.9.0 // indirect
-	golang.org/x/text v0.10.0 // indirect
+	golang.org/x/sys v0.10.0 // indirect
+	golang.org/x/term v0.10.0 // indirect
+	golang.org/x/text v0.11.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.9.3 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
@@ -123,14 +123,14 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	k8s.io/api v0.27.2 // indirect
-	k8s.io/apimachinery v0.27.2 // indirect
-	k8s.io/cli-runtime v0.27.2 // indirect
-	k8s.io/client-go v0.27.2 // indirect
+	k8s.io/api v0.27.3 // indirect
+	k8s.io/apimachinery v0.27.3 // indirect
+	k8s.io/cli-runtime v0.27.3 // indirect
+	k8s.io/client-go v0.27.3 // indirect
 	k8s.io/klog/v2 v2.100.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f // indirect
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2 // indirect
-	oras.land/oras-go v1.2.3-0.20230313045143-cb5625556a37 // indirect
+	oras.land/oras-go v1.2.3 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/kustomize/api v0.13.2 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.14.1 // indirect
